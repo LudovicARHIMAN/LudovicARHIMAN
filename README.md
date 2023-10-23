@@ -51,4 +51,4 @@
 </div>
 
 <p>https://github.com/maurodesouza/profile-readme-generator</p>
-<p></p>github is broken, i've never coded in Cython, 0% of Cython code in my repos </p>
+<p></p>github is broken, i've never coded in Cython :smiling_face_with_tear: </p>
