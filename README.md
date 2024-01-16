@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">- 📚 I'm currently studying in IT (networks and telecoms with a cybersecurity speciality)<br>- ⚡ In my free time I code in python or, I learn cybersecurity on Try Hack Me</p>
+<p align="left">- 📚 I'm currently studying in IT (networks and telecoms with a cybersecurity speciality)<br>- ⚡ In my free time I code or, I learn cybersecurity on Try Hack Me</p>
 
 ###
 
